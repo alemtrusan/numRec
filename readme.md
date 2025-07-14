@@ -2,6 +2,9 @@
 
 Handwritten Digit Recognition using a Convolutional Neural Network (CNN) and a graphical user interface (GUI).
 
+
+<img width="336" height="368" alt="Captura de pantalla 2025-07-14 220535" src="https://github.com/user-attachments/assets/27d6595c-049c-4bf7-9002-8e4d166b8f60" />
+
 ## Features
 
 - Trains a CNN model on the MNIST dataset.
@@ -35,4 +38,3 @@ numRec/
 
 ```
 
-<img width="336" height="368" alt="Captura de pantalla 2025-07-14 220535" src="https://github.com/user-attachments/assets/27d6595c-049c-4bf7-9002-8e4d166b8f60" />
